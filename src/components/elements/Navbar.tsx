@@ -23,7 +23,7 @@ export const Navbar = () => {
             <a href="/" className="relative flex items-center gap-3">
               <img src={logo} alt="EdgeAI Logo" className="w-10 h-10" />
               <div className="inline-flex text-lg font-semibold text-heading-1">
-                EdgeAI
+                VeekAI
               </div>
             </a>
           </div>
